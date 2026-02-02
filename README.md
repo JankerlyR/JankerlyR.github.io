@@ -7,7 +7,7 @@
 <h1>Jankerly Ramirez</h1>
     <img src="/images/HunterPhoto.jpeg" alt="A picture of me.">
 <p>
-This is a creative statement
+Jankerly Ramirez is an 18-year-old freshman at Hunter College, studying computer science. He is a Dominican who likes playing video games, sports, and enjoys collecting anime and sports figures. I have some experience with working in HTML because of classes I took in middle and high school. I'm usually a hands on person when it comes to work so I hope I can get some much needed experience from this class. I don't really know how to wrap up a creative statement... so I'm going to leave this part in and hope the professor likes it!
 </p>
 </body>
 </html>
