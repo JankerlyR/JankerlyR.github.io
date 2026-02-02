@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Jankerly Ramirez
+<title> Jankerly Ramirez </title>
 </head>
 <body>
 <h1>Jankerly Ramirez</h1>
