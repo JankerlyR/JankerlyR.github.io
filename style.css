@@ -2,7 +2,7 @@
 
 /* Full page background */
 body {
-    background-color: #676767;
+    background-color: #676942;
     background-image: url('images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,24 +16,24 @@ body {
 
 /* Link colors */
 a {
-    color: #676767; /* Link color */
+    color: #696969; /* Link color */
     text-decoration: none;
 }
 
 /* Changes text color and adds underline on mouse hover */
 a:hover {
-    color: #676767;
+    color: #271777;
     text-decoration: underline;
 }
 
 /* Heading styles */
 h1 {
-    color: #676767; /* Heading color */
+    color: #420420; /* Heading color */
     font-size: 36px;
     margin: 24px 0 8px;
 }
 h2 {
-    color: #333333; /* Subheading color */
+    color: #313131; /* Subheading color */
     font-size: 28px;
     margin: 16px 0 8px;
 }
