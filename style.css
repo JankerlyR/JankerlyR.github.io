@@ -16,19 +16,19 @@ body {
 
 /* Link colors */
 a {
-    color: #0073e6; /* Link color */
+    color: #676767; /* Link color */
     text-decoration: none;
 }
 
 /* Changes text color and adds underline on mouse hover */
 a:hover {
-    color: #005bb5;
+    color: #676767;
     text-decoration: underline;
 }
 
 /* Heading styles */
 h1 {
-    color: #111111; /* Heading color */
+    color: #676767; /* Heading color */
     font-size: 36px;
     margin: 24px 0 8px;
 }
