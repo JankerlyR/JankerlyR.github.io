@@ -16,13 +16,13 @@ body {
 
 /* Link colors */
 a {
-    color: #696969; /* Link color */
+    color: #123456; /* Link color */
     text-decoration: none;
 }
 
 /* Changes text color and adds underline on mouse hover */
 a:hover {
-    color: #271777;
+    color: #123456;
     text-decoration: underline;
 }
 
